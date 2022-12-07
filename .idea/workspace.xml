@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbf8eec7-9053-42f9-b4e1-e438c883a0d5" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/Echo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/output.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/sdt2Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/sdt2Parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/sdt2PrintMarkdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/sdt2PrintOPML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/sdt2PrintPlain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/sdt2PrintSDT3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3Parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintJava.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintMarkdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintOPML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintOneM2MSVG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintOneM2MXSD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintPlain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintSDT4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintSwagger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3PrintVortoDSL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/sdt3Templates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv4/sdt4Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv4/sdt4Parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv4/sdt4PrintOneM2MSVG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv4/sdt4Templates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/SDTPrinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/SDTPrinter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/SDTTool.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/SDTTool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2Parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2Parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2PrintMarkdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2PrintMarkdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2PrintOPML.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2PrintOPML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2PrintPlain.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2PrintPlain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2PrintSDT3.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/SDT2PrintSDT3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3Parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3Parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintJava.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintJava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintMarkdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintMarkdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintOPML.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintOPML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintOneM2MSVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintOneM2MSVG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintOneM2MXSD.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintOneM2MXSD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintPlain.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintPlain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintSDT4.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintSDT4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintSwagger.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintSwagger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintVortoDSL.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3PrintVortoDSL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3Templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/SDT3Templates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv4/SDT4Parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv4/SDT4Parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv4/SDT4PrintOneM2MSVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv4/SDT4PrintOneM2MSVG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv4/SDT4Templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv4/SDT4Templates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDTTool_translate/sdtv4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDTTool_translate/sdtv4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/SDTPrinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/SDTPrinter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/SDTTool.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/SDTTool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2Parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2Parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2PrintMarkdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2PrintMarkdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2PrintOPML.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2PrintOPML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2PrintPlain.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2PrintPlain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2PrintSDT3.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/SDT2PrintSDT3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3Parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3Parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintJava.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintJava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintMarkdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintMarkdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintOPML.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintOPML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintOneM2MSVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintOneM2MSVG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintOneM2MXSD.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintOneM2MXSD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintPlain.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintPlain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintSDT4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintSDT4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintSwagger.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintSwagger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintVortoDSL.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3PrintVortoDSL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3Templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/SDT3Templates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv4/SDT4Parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv4/SDT4Parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv4/SDT4PrintOneM2MSVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv4/SDT4PrintOneM2MSVG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv4/SDT4Templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv4/SDT4Templates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdttool/SDTTool_translate/sdtv4/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SDTTool_translate" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ILN7z6FW5cI2y3jS6PgD2Njjf6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="cbf8eec7-9053-42f9-b4e1-e438c883a0d5" name="변경" comment="" />
+      <created>1669956744277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669956744277</updated>
+      <workItem from="1669956747412" duration="2000" />
+      <workItem from="1670322211415" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>
