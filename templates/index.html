@@ -53,6 +53,11 @@
 		<!--[if lt IE 9]>
 		<script src="js/respond.min.js"></script>
 		<![endif]-->
+
+		<!-- 마크다운 -->
+		<script src="https://unpkg.com/vue@2"></script>
+		<script src="https://unpkg.com/marked@0.3.6"></script>
+		<script src="https://unpkg.com/lodash@4.16.0"></script>
 	</head>
 
 
@@ -144,6 +149,16 @@
 																	{% csrf_token %}
 																	<input type="submit" class="btn btn-primary btn-block" value="Download">
 																</form>
+
+																<div>
+																	<button type="submit" class="btn btn-outline-primary" onclick="MdEditSubmit()">편집하기</button>
+																</div>
+															
+																<div class="notice-content-area" id="editor" style="margin-bottom: 1em">
+																	<textarea id="content" style="height: 200px; width: 200px" maxlength="1000"
+																		placeholder="내용을 입력하세요." value="input" @input="update"></textarea>
+																	<div align="right" v-html="compiledMarkdown" id="compiledMarkdown"></div>
+																</div>
 														{% endif %}
 														</div>
 													</div>
@@ -408,5 +423,26 @@
 		<!-- Main -->
 		<script src="{% static 'assets/js/main.js' %}"></script>
 		<script src="{% static 'assets/js/dropbox.js' %}"></script>
+
+		<!-- 마크다운 -->
+        <script>
+            new Vue({
+            el: "#editor",
+            data: {
+                input: "# 내용을 입력하세요"
+            },
+            computed: {
+                compiledMarkdown: function() {
+                return marked(this.input, { sanitize: true });
+                }
+            },
+            methods: {
+                update: _.debounce(function(e) {
+                this.input = e.target.value;
+                }, 300)
+            }
+            });
+        </script>
+		<!-- 마크다운 --> 
 	</body>
 </html>
